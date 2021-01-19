@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+div {
+  width: 50%;
+  height: 100vh;
+  float: left;
+  color: white;
+  font-size: 3em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  padding: 15px 0;
+}
+
+#green {
+  background-color: rgb(14, 138, 14);
+}
+
+#red {
+  background-color: red;
+}
